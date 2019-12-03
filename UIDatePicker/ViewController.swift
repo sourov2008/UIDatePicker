@@ -30,7 +30,6 @@ class ViewController: UIViewController , UITextFieldDelegate{
         self.myTextField.resignFirstResponder()
     }
     
-    
-    
+
 }
 
