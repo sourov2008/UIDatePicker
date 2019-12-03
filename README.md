@@ -29,3 +29,7 @@ Reusable UIDatePicker View using toolbar
                 self.myTextField.resignFirstResponder()
             }
         }
+
+![](Images/image1.png)
+![](Images/image2.png)
+![](Images/image3.png)
