@@ -15,9 +15,9 @@
 		AF8365282396A5C400B3F123 /* UIDatePickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8365272396A5C400B3F123 /* UIDatePickerTests.swift */; };
 		AF8365332396A5C400B3F123 /* UIDatePickerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8365322396A5C400B3F123 /* UIDatePickerUITests.swift */; };
 		AF8365412396A61700B3F123 /* UITextField+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8365402396A61700B3F123 /* UITextField+Extension.swift */; };
-		AF8365482396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.37.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8365452396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.37.png */; };
-		AF8365492396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.07.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8365462396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.07.png */; };
-		AF83654A2396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.53.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8365472396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.53.png */; };
+		AF8365482396C8CE00B3F123 /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8365452396C8CE00B3F123 /* image1.png */; };
+		AF8365492396C8CE00B3F123 /* image2.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8365462396C8CE00B3F123 /* image2.png */; };
+		AF83654A2396C8CE00B3F123 /* image3.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8365472396C8CE00B3F123 /* image3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,9 +52,9 @@
 		AF8365322396A5C400B3F123 /* UIDatePickerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIDatePickerUITests.swift; sourceTree = "<group>"; };
 		AF8365342396A5C400B3F123 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF8365402396A61700B3F123 /* UITextField+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+Extension.swift"; sourceTree = "<group>"; };
-		AF8365452396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.37.png"; sourceTree = "<group>"; };
-		AF8365462396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.07.png"; sourceTree = "<group>"; };
-		AF8365472396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.53.png"; sourceTree = "<group>"; };
+		AF8365452396C8CE00B3F123 /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image1.png; sourceTree = "<group>"; };
+		AF8365462396C8CE00B3F123 /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image2.png; sourceTree = "<group>"; };
+		AF8365472396C8CE00B3F123 /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +85,7 @@
 		AF8365062396A5C200B3F123 = {
 			isa = PBXGroup;
 			children = (
+				AF8365442396C8AB00B3F123 /* Images */,
 				AF8365112396A5C200B3F123 /* UIDatePicker */,
 				AF8365262396A5C400B3F123 /* UIDatePickerTests */,
 				AF8365312396A5C400B3F123 /* UIDatePickerUITests */,
@@ -105,7 +106,6 @@
 		AF8365112396A5C200B3F123 /* UIDatePicker */ = {
 			isa = PBXGroup;
 			children = (
-				AF8365442396C8AB00B3F123 /* Images */,
 				AF8365122396A5C200B3F123 /* AppDelegate.swift */,
 				AF8365142396A5C200B3F123 /* ViewController.swift */,
 				AF8365402396A61700B3F123 /* UITextField+Extension.swift */,
@@ -138,9 +138,9 @@
 		AF8365442396C8AB00B3F123 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				AF8365462396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.07.png */,
-				AF8365452396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.37.png */,
-				AF8365472396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.53.png */,
+				AF8365462396C8CE00B3F123 /* image2.png */,
+				AF8365452396C8CE00B3F123 /* image1.png */,
+				AF8365472396C8CE00B3F123 /* image3.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -249,9 +249,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF8365492396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.07.png in Resources */,
-				AF8365482396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.37.png in Resources */,
-				AF83654A2396C8CE00B3F123 /* Simulator Screen Shot - iPhone Xʀ - 2019-12-03 at 22.32.53.png in Resources */,
+				AF8365492396C8CE00B3F123 /* image2.png in Resources */,
+				AF8365482396C8CE00B3F123 /* image1.png in Resources */,
+				AF83654A2396C8CE00B3F123 /* image3.png in Resources */,
 				AF83651D2396A5C400B3F123 /* LaunchScreen.storyboard in Resources */,
 				AF83651A2396A5C400B3F123 /* Assets.xcassets in Resources */,
 				AF8365182396A5C200B3F123 /* Main.storyboard in Resources */,
