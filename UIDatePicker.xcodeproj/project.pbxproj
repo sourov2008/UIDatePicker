@@ -85,6 +85,7 @@
 		AF8365062396A5C200B3F123 = {
 			isa = PBXGroup;
 			children = (
+				AF8365442396C8AB00B3F123 /* Images */,
 				AF8365112396A5C200B3F123 /* UIDatePicker */,
 				AF8365262396A5C400B3F123 /* UIDatePickerTests */,
 				AF8365312396A5C400B3F123 /* UIDatePickerUITests */,
@@ -105,7 +106,6 @@
 		AF8365112396A5C200B3F123 /* UIDatePicker */ = {
 			isa = PBXGroup;
 			children = (
-				AF8365442396C8AB00B3F123 /* Images */,
 				AF8365122396A5C200B3F123 /* AppDelegate.swift */,
 				AF8365142396A5C200B3F123 /* ViewController.swift */,
 				AF8365402396A61700B3F123 /* UITextField+Extension.swift */,
